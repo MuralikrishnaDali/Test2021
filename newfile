@@ -1,2 +1,6 @@
 hi how are you
 welcome to GIt
+
+
+Connect to http://<your_server_public_DNS>:8080 from your favorite browser. You will be able to access Jenkins through its management interface:
+
